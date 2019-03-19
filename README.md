@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-<title> Bob Marley Legend </title> 
+<title> Bob Marley Tribute </title>
+<h1> Bob Marley </h1>
+<h2> "Get up, stand up, Stand up for your rights. Get up, stand up, Don't give up the fight." </h2>
 </head>
-<body>
- <div id="img-div">
- <img id="image" src="https://www.patronaat.nl/download/?id=1164390&maxWidth=737&width=737&zc=1" alt="Bob Marley" </img>
+<main>
+<div id="img-div">
+ <img id="image" src="ADD YOUR SOURCE" alt="YOUR DESCRIPTION" </img>
     <h2 id="img-caption"> 
     YOUR DESCRIPTION</h2>
      </div>
-<header>
-<h1> Bob Marley </h1>
-<h2> "Get up, stand up, Stand up for your rights. Get up, stand up, Don't give up the fight." </h2>
-<!-- </header> -->
-<main>
 <ul>
 <li>A Jamaican immigration official suggested to Bob’s mom that “Nesta” sounded too much like a girl’s name. So they switched his name to Robert Nesta Marley</li>
 
